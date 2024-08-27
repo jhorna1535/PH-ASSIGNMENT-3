@@ -1,0 +1,14 @@
+.standard{
+    max-width: 1200px !important;
+  }
+  
+.manrope-font{
+    font-family: "Manrope", sans-serif;}
+
+
+  .connect-bg{
+    background-image: url(./assets/bg.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
